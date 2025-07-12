@@ -1,0 +1,9 @@
+streamlit
+watchdog
+openai
+boto3
+ffmpeg-python
+python-dotenv
+# dev
+ruff
+aiohttp
